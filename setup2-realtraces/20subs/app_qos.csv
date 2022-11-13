@@ -1,0 +1,10 @@
+app,subscribed_topics,QoS_latency,QoS_throughput,QoS_dropping
+app38,videosurveillance|,2,202,0.02
+app12,occupancymanagement|,4,0,0
+app11,printing|,4,0,0
+app36,videosurveillance|intrusiondetection|,2,202,0.02
+app22,smartthings|firedetection|,0.4,28.8,0
+app2,videosurveillance|energymanagement|printing|bms|intrusiondetection|,1000,0,0
+app1,smartthings|firedetection|energymanagement|,1000,0,0
+app21,intrusiondetection|occupancymanagement|bms|amazonecho|,0.4,28.8,0
+app23,firedetection|,0.4,28.8,0

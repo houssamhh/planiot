@@ -1,0 +1,10 @@
+topic,apps
+printing,app16 app12 app20 app11 app18 app14 app17 app15 app13 app4 app2 app5
+energymanagement,app5 app6 app2 app32 app7 app4 app3 app9 app8 app10 app12 app1 app33 app24 app30
+occupancymanagement,app44 app48 app50 app42 app43 app19 app12 app17 app34 app21 app8 app5
+videosurveillance,app37 app38 app46 app49 app39 app26 app35 app7 app4 app10 app36 app50
+firedetection,app29 app31 app22 app23 app33 app30 app25 app1 app7 app10
+intrusiondetection,app36 app45 app47 app41 app40 app21 app24 app2 app6
+amazonecho,app32 app27 app30 app21 app7 app10 app8 app5 app19 app14
+smartthings,app28 app34 app11 app14 app9 app3 app1 app8 app21 app35
+bms,app19 app12 app17 app2 app8 app1 app30 app27 app10 app9
