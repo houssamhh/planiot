@@ -9,3 +9,5 @@ This project contains the following directories:
 * `setup2-realtraces`: we evaluate the scalability of PlanIoT by testing it under a realistic smart space setup where we increase the number of subscriptions to saturate the PlanIoT broker. We rely on real traces for the data generated from IoT devices.
 
 * `setup3-emergency`: we consider an emergency case (fire) that occurs in the realistic smart space setup. As a result, we introduce a new application category (with the highest priority) and new subscriptions.
+
+Each directory contains a `readme.md` file.
